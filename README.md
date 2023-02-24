@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Software Engineer, specialized in distributed system, I am especially interested in persistent virtual worlds, and how people interact with it.
-These can be a online game world, a physical simulation, or even a programming language if it some kind of a live interactive programming experience.
+These can be a online game world, a physical simulation, or even a programming language if it provides some kind of live interactive developer experience.
 
 🔭 I’m usually working on various ideas related to these topics, and can hop from one project to another to maximize learning.
 
