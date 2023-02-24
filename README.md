@@ -5,7 +5,7 @@ These can be a online game world, a physical simulation, or even a programming l
 
 🔭 I’m usually working on various ideas related to these topics, and can hop from one project to another to maximize learning.
 
-🌱 I’m currently focusing on learning Elixir, Julia and Rust, and how to architect large distributed software functionally (and formally).
+🌱 I’m currently focusing on learning [Elixir](https://elixir-lang.org/), [Julia](https://julialang.org/) and [Rust](https://www.rust-lang.org/), and how to architect large distributed software functionally.
 
 If you want to collaborate on some of these of topics, dont hesitate to contact me 💬.
 
