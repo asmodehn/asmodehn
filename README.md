@@ -1,12 +1,16 @@
-### Hi there 👋
+## AlexV · Senior software engineer, distributed systems
 
-Software Engineer, specialized in distributed system, I am especially interested in persistent virtual worlds, and how people interact with it.
-These can be a online game world, a physical simulation, or even a programming language if it provides some kind of live interactive developer experience.
+Interested in remote engineering work, focused on code. Europe/CET.
 
-🔭 I’m usually working on various ideas related to these topics, and can hop from one project to another to maximize learning.
+20+ years building distributed software for systems that have to keep running while their parts come and go:
+distributed simulations, online games, robots, and now fleets of networked edge devices.
 
-🌱 I’m currently focusing on learning [Elixir](https://elixir-lang.org/) and [Rust](https://www.rust-lang.org/), and how to architect large distributed software functionally.
+**Now:** network device management on Linux and OpenWrt. Contributor to [OpenWISP](https://github.com/openwisp) and GSoC 2026 mentor there.
 
-If you want to collaborate on some of these of topics, dont hesitate to contact me 💬.
+**Stack:** C/C++ → Python → now Elixir and Rust · Linux, OpenWrt
 
-📫 Look for asmodehn on your favorite social network or ping me in here.
+**Interest:** functional design of long-lived distributed systems;
+bootstrapping self-maintaining software that keeps evolving without rotting.
+
+**How I like to work:** remote, async, test-first, small reviewable changes, upstream before forking.
+With AI writing more of the code, writing tests first is how we keep changes safe.
