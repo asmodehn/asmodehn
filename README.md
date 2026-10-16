@@ -9,8 +9,10 @@ simulated worlds, online games, robots, and now fleets of networked edge devices
 
 🛠️ **Stack:** started deep in C/C++, grew up with Python, now heading for Elixir and Rust.
 
-🌍 **What keeps me curious:** functional design of long-lived distributed systems, persistent virtual worlds and the people living in them,
+🌍 **What keeps me curious:** functional design of long-lived distributed systems, persistent virtual worlds,
 and software that maintains itself instead of rotting.
 
 🧪 **How I like to work:** remote, async, test-first, small reviewable changes, upstream before forking.
 With AI writing more of the code, writing tests first is how we keep changes safe.
+
+📂 **Workshop:** work done and in progress at [asmodehn.fr](https://www.asmodehn.fr)
